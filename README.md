@@ -1,0 +1,2 @@
+# Former-Yugoslavia-Countries---1990-vs-2015
+Yugoslavia (SFRY) was a socialist state in south-eastern Europe, founded in 1945. It was a federation made up of six socialist republics, in alphabetical order:  Bosnia and Herzegovina Croatia Macedonia Montenegro Serbia Slovenia In this notebook, we'll take a look at the development statistics of these countries in the last 25 years, after the Yugoslavian dissolution in '90s.
